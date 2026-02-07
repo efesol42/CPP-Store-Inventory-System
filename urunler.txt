@@ -1,0 +1,5 @@
+Urun id: 1	Urun adi: Bilgisayar	Urun fiyati: 35000
+Urun id: 2	Urun adi: Gozluk	Urun fiyati: 200
+Urun id: 3	Urun adi: Canta	Urun fiyati: 300
+Urun id: 4	Urun adi: Telefon	Urun fiyati: 15000
+Urun id: 5	Urun adi: Defter	Urun fiyati: 50
